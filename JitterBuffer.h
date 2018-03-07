@@ -1,5 +1,5 @@
-#ifndef __HOLA_QUICKLY_SORT_CACHE_H_INCLUDED__
-#define __HOLA_QUICKLY_SORT_CACHE_H_INCLUDED__
+#ifndef __HOLA_JITTER_BUFFER_H_INCLUDED__
+#define __HOLA_JITTER_BUFFER_H_INCLUDED__
 
 
 class RtpData;
@@ -43,5 +43,5 @@ private:
     bool m_init;
 }; // class JitterBuffer
 
-#endif // ifndef __HOLA_QUICKLY_SORT_CACHE_H_INCLUDED__
+#endif // ifndef __HOLA_JITTER_BUFFER_H_INCLUDED__
 
